@@ -60,7 +60,17 @@
        margin-top: 20px;
       }
 
-    
+     #nav-list a {
+    text-align: center;
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+      }
+
+    #nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+     }
 
     .navbar-brand a:hover, .navbar-brand a:focus {
      text-decoration: none;
